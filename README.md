@@ -16,7 +16,7 @@ https://github.com/moniru005/flowlaunch
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  https://github.com/moniru005/flowlaunch.git
 ```
 
 Go to the project directory
